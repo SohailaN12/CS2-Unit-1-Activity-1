@@ -15,5 +15,14 @@ public class Main {
       System.out.println("Type your name then press enter: ");
       String player = input.nextLine();
       System.out.println("Welcome, " + player);
+
+      // Create variables for each placeholder word
+      String emotion = "tired";
+      String pet = "cat";
+      String verPastTense = "destroyed"
+
+      // Print your stroy line by line 
+      System.out.println("put your story here " + emotion + "add ur story")
+      System.out.println("my sorty" + pet + " " + verPastTense + "my HW")
    }
 }
